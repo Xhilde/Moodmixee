@@ -3,7 +3,7 @@
 
 
 
-const API_KEY = 'AIzaSyBkuEp5EHn49i36TLBamRiFtiv6sb4';
+const API_KEY = 'AIzaSyBkuEp5EjggHn49i36TLBamRiFtiv6sb4';
  // <-- Replace this with your YouTube Data API key
 const searchBtn = document.getElementById('search-btn');
 const emotionInput = document.getElementById('emotion-input');
